@@ -492,8 +492,7 @@ small {
 }
 
 #banner .bants-highlight {
-  color: var(--andela-blue);
-  text-shadow: 3px -1px 0px var(--andela-gold);
+  text-decoration: underline;
 }
 
 #hero h1 {
